@@ -1,4 +1,4 @@
-# GMovie Land
+# Moviefy
 
 Moviefy is a movie library, here you can search any movie and watch its poster image and launch year.
 
