@@ -16,8 +16,8 @@ Moviefy is a movie library, here you can search any movie and watch its poster i
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/pvSZbpR/desktop.png)
-![App Screenshot](https://i.ibb.co/7nD4Sqk/mobile.png)
+![App Screenshot](https://i.ibb.co/cw8ckKH/desktop1.png)
+![App Screenshot](https://i.ibb.co/h90Stdn/mobile1.png)
 
 ## License
 
