@@ -21,7 +21,7 @@ Moviefy is a movie library, here you can search any movie and watch its poster i
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 
 
 ### More projects:
